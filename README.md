@@ -12,8 +12,8 @@ I used a boilerplate from Yeoman and generator-code (npm
 
 
 ## Requirements
-##### TODO: ADD LINKS
+##### TODO:
 
-- Node.js
-- Locally running LLM
-- ollama 
+- Make a decent looking GUI so the text doesn't appear in some hobo-style red box
+- Severe lag between submitting user prompt --> LLM response. Why is it taking so long?
+- try other models
